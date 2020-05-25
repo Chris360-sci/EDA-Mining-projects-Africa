@@ -2,7 +2,7 @@
 
 The purpose of this task was to identify the most abundant commodities,
 and reveal which commodities are mined in each country. It also looks at
-the energy sources used my mines in different regions of Africa, and
+the energy sources used by mines in different regions of Africa, and
 looks at the relationships between the abundance of a commodity and the
 amount of years a mine will operate for, as well as the amount of energy
 needed to operate the mine.
